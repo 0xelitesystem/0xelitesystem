@@ -2,7 +2,7 @@
 
 Solo operator. I build small tools that do one thing, run anywhere, and phone nobody.
 
-**Search all 225 repos on one page: [0xelitesystem.github.io](https://0xelitesystem.github.io/)**
+**Search all 338 repos on one page: [0xelitesystem.github.io](https://0xelitesystem.github.io/)**
 
 **Hub:** [elitesystem.ai](https://elitesystem.ai) · **AI/dev channel:** [@0xelitesystem](https://www.youtube.com/@0xelitesystem) · **Finance channel:** [@RBLMoneyOfficial](https://www.youtube.com/@RBLMoneyOfficial)
 
@@ -18,9 +18,9 @@ Solo operator. I build small tools that do one thing, run anywhere, and phone no
 | [agent-rules](https://github.com/0xelitesystem/agent-rules) | Did it actually follow your CLAUDE.md? |
 | [agent-cost](https://github.com/0xelitesystem/agent-cost) | Where did the tokens and money go? |
 
-**100+ single-file browser tools.** One HTML file each. Inline CSS and JS, no frameworks, no CDN, no analytics, no build step. Every tool has a live demo at `0xelitesystem.github.io/<repo>`. Start with [jwt-inspector](https://github.com/0xelitesystem/jwt-inspector), [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything), or [og-image-generator](https://github.com/0xelitesystem/og-image-generator).
+**181 single-file browser tools.** One HTML file each. Inline CSS and JS, no frameworks, no CDN, no analytics, no build step. Every tool has a live demo at `0xelitesystem.github.io/<repo>`. Start with [jwt-inspector](https://github.com/0xelitesystem/jwt-inspector), [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything), or [og-image-generator](https://github.com/0xelitesystem/og-image-generator).
 
-**120+ plain-language references.** Short, factual, self-contained explainers on security, AI/LLM practice, SEO, indie operations, and market literacy. Written to be cited, not skimmed. Start with [incident-response-runbooks](https://github.com/0xelitesystem/incident-response-runbooks) or [prompt-injection-defense-reference](https://github.com/0xelitesystem/prompt-injection-defense-reference).
+**157 plain-language references.** Short, factual, self-contained explainers on security, AI/LLM practice, SEO, indie operations, and market literacy. Written to be cited, not skimmed. Start with [incident-response-runbooks](https://github.com/0xelitesystem/incident-response-runbooks) or [prompt-injection-defense-reference](https://github.com/0xelitesystem/prompt-injection-defense-reference).
 
 ## The rules these repos follow
 
