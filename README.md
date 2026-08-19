@@ -4,7 +4,7 @@ Solo operator. I build small tools that do one thing, run anywhere, and phone no
 
 **Search all 338 repos on one page: [0xelitesystem.github.io](https://0xelitesystem.github.io/)**
 
-**Hub:** [elitesystem.ai](https://elitesystem.ai) · **AI/dev channel:** [@0xelitesystem](https://www.youtube.com/@0xelitesystem) · **Podcast:** [@SalmanAhsan](https://www.youtube.com/@SalmanAhsan)
+**Hub:** [elitesystem.ai](https://elitesystem.ai)  -  **AI/dev channel:** [@0xelitesystem](https://www.youtube.com/@0xelitesystem)  -  **Podcast:** [@SalmanAhsan](https://www.youtube.com/@SalmanAhsan)
 
 ## What's in this account
 
