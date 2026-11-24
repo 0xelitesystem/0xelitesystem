@@ -13,10 +13,10 @@ Solo operator. I build small tools that do one thing, run anywhere, and phone no
 | Tool | The question it answers |
 |---|---|
 | [donediff](https://github.com/0xelitesystem/donediff) | Did the agent's claims ("tests pass") match reality? |
-| [agent-leaks](https://github.com/0xelitesystem/agent-leaks) | Did it leak secrets into the transcript? |
+| [agent-transcript-redactor](https://github.com/0xelitesystem/agent-transcript-redactor) | Did it leak secrets into the transcript? |
 | [cantundo](https://github.com/0xelitesystem/cantundo) | What irreversible actions did it take? |
 | [rulediff](https://github.com/0xelitesystem/rulediff) | Did it actually follow your CLAUDE.md? |
-| [agent-cost](https://github.com/0xelitesystem/agent-cost) | Where did the tokens and money go? |
+| [agent-spend-retrospective](https://github.com/0xelitesystem/agent-spend-retrospective) | Where did the tokens and money go? |
 
 **181 single-file browser tools.** One HTML file each. Inline CSS and JS, no frameworks, no CDN, no analytics, no build step. Every tool has a live demo at `0xelitesystem.github.io/<repo>`. Start with [jwt-inspector](https://github.com/0xelitesystem/jwt-inspector), [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything), or [og-image-generator](https://github.com/0xelitesystem/og-image-generator).
 
