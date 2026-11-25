@@ -20,7 +20,7 @@ Solo operator. I build small tools that do one thing, run anywhere, and phone no
 
 **181 single-file browser tools.** One HTML file each. Inline CSS and JS, no frameworks, no CDN, no analytics, no build step. Every tool has a live demo at `0xelitesystem.github.io/<repo>`. Start with [jwt-inspector](https://github.com/0xelitesystem/jwt-inspector), [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything), or [og-image-generator](https://github.com/0xelitesystem/og-image-generator).
 
-**157 plain-language references.** Short, factual, self-contained explainers on security, AI/LLM practice, SEO, indie operations, and market literacy. Written to be cited, not skimmed. Start with [incident-response-runbooks](https://github.com/0xelitesystem/incident-response-runbooks) or [prompt-injection-defense-reference](https://github.com/0xelitesystem/prompt-injection-defense-reference).
+**157 plain-language references.** Short, factual, self-contained explainers on security, AI/LLM practice, SEO, indie operations, and market literacy. Written to be cited, not skimmed. Start with [incident-runbook-skeletons](https://github.com/0xelitesystem/incident-runbook-skeletons) or [prompt-injection-defense-reference](https://github.com/0xelitesystem/prompt-injection-defense-reference).
 
 ## The rules these repos follow
 
