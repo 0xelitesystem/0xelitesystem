@@ -18,7 +18,7 @@ Solo operator. I build small tools that do one thing, run anywhere, and phone no
 | [rulediff](https://github.com/0xelitesystem/rulediff) | Did it actually follow your CLAUDE.md? |
 | [agent-spend-retrospective](https://github.com/0xelitesystem/agent-spend-retrospective) | Where did the tokens and money go? |
 
-**181 single-file browser tools.** One HTML file each. Inline CSS and JS, no frameworks, no CDN, no analytics, no build step. Every tool has a live demo at `0xelitesystem.github.io/<repo>`. Start with [jwt-verify-in-browser](https://github.com/0xelitesystem/jwt-verify-in-browser), [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything), or [og-image-generator](https://github.com/0xelitesystem/og-image-generator).
+**181 single-file browser tools.** One HTML file each. Inline CSS and JS, no frameworks, no CDN, no analytics, no build step. Every tool has a live demo at `0xelitesystem.github.io/<repo>`. Start with [jwt-verify-in-browser](https://github.com/0xelitesystem/jwt-verify-in-browser), [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything), or [og-card-from-text](https://github.com/0xelitesystem/og-card-from-text).
 
 **157 plain-language references.** Short, factual, self-contained explainers on security, AI/LLM practice, SEO, indie operations, and market literacy. Written to be cited, not skimmed. Start with [incident-runbook-skeletons](https://github.com/0xelitesystem/incident-runbook-skeletons) or [prompt-injection-defense-reference](https://github.com/0xelitesystem/prompt-injection-defense-reference).
 
